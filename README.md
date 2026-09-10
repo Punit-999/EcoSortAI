@@ -1,6 +1,6 @@
 # EcoSort AI
-
-**An AI-powered smart waste sorting system for real-world deployment**
+ 
+** An AI-powered smart waste sorting system for real-world deployment **
 
 Built by **Team Surgeons of Tech** (ZEN-T370) — CODEAMBLE 2026 Grand Finale
 Government Polytechnic Pune
